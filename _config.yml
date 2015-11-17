@@ -1,0 +1,23 @@
+name: erichcamping
+favicon: null
+layout_spectrum: 0.3586577936075628
+typography_spectrum: 0.7212021788582206
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9305868810042739
+  lightness: 0.31461562728509307
+  saturation: 0.7299492941237986
+  rhythmicContrast: 0.8238020041026175
+purpose: []
