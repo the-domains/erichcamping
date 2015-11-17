@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-17T21:18:00.412Z'
-dateModified: '2015-11-17T21:17:44.743Z'
+description: wedding photography
+datePublished: '2015-11-17T21:24:23.682Z'
+dateModified: '2015-11-17T21:24:18.880Z'
 title: erich camping
+sourcePath: _posts/2015-11-17-erich-camping.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-17-erich-camping.md
-published: true
 url: erich-camping/index.html
 _type: Article
 
